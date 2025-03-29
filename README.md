@@ -14,7 +14,7 @@ Programa en Java que implementa 9 algoritmos de ordenamiento con interfaz gráfi
 9. Bucket Sort
 
 ## Cómo usar
-1. Ejecuta el programa en NetBeans/IDE
+1. Ejecuta el programa en NetBeans
 2. Selecciona un algoritmo (1-9)
 3. Ingresa la cantidad de números
 4. Introduce los valores uno por uno
@@ -24,9 +24,4 @@ Programa en Java que implementa 9 algoritmos de ordenamiento con interfaz gráfi
 - Interfaz con JOptionPane
 - Validación de entrada
 - Comparación array original/ordenado
-- Código comentado para estudio
 
-## Ejecución
-```bash
-javac OrdenamientoApp.java
-java OrdenamientoApp
