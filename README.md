@@ -1,6 +1,6 @@
 # Aplicación de Métodos de Ordenamiento
 
-Programa en Java que implementa 9 algoritmos de ordenamiento con interfaz gráfica.
+Programa en Java que implementa 9 algoritmos de ordenamiento.
 
 ## Métodos incluidos
 1. Bubble Sort
